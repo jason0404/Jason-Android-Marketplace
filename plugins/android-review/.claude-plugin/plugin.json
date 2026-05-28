@@ -1,0 +1,19 @@
+{
+  "name": "android-review",
+  "displayName": "Android Review",
+  "description": "Specialized Android code review with styled HTML reporting for Kotlin, lifecycle, crash analysis, Gradle, XML/Compose, SDK integrations, localization and multi-brand release safety.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Jason"
+  },
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "kotlin",
+    "code-review",
+    "gradle",
+    "lifecycle",
+    "localization",
+    "release-safety"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "jason-android-plugins",
+  "owner": {
+    "name": "Jason"
+  },
+  "description": "Android engineering marketplace for code review, localisation management and APK/AAB release artifact inspection.",
+  "version": "0.3.0",
+  "plugins": [
+    {
+      "name": "android-review",
+      "source": "./plugins/android-review",
+      "description": "Specialized Android code review, crash diagnosis, release checks and styled HTML reporting."
+    },
+    {
+      "name": "android-localization-toolkit",
+      "source": "./plugins/android-localization-toolkit",
+      "description": "Audit strings.xml resources, manage translation workbooks, validate imports and generate localization reports."
+    },
+    {
+      "name": "android-artifact-inspector",
+      "source": "./plugins/android-artifact-inspector",
+      "description": "Inspect APK/AAB artifacts, verify APK signing, compare builds and generate HTML release reports."
+    }
+  ]
+}

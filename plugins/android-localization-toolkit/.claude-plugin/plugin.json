@@ -1,0 +1,19 @@
+{
+  "name": "android-localization-toolkit",
+  "displayName": "Android Localization Toolkit",
+  "description": "Audit Android strings.xml locale resources, produce translation workbooks, safely import translations and generate localization reports.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jason"
+  },
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "localization",
+    "strings.xml",
+    "translation",
+    "excel",
+    "placeholder",
+    "internationalization"
+  ]
+}

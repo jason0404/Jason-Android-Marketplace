@@ -1,0 +1,19 @@
+.DS_Store
+.idea/
+*.iml
+
+# Generated reports/workbooks
+android-review-reports/
+android-localization-output/
+android-artifact-reports/
+
+# Build artifacts and signing material
+*.apk
+*.aab
+*.apks
+*.jks
+*.keystore
+
+# Local Claude Code overrides
+.claude/settings.local.json
+CLAUDE.local.md

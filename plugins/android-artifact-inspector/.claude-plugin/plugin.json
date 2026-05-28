@@ -1,0 +1,19 @@
+{
+  "name": "android-artifact-inspector",
+  "displayName": "Android Artifact Inspector",
+  "description": "Inspect Android APK/AAB build artifacts, validate APK signing, compare builds and create HTML reports.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jason"
+  },
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "apk",
+    "aab",
+    "apksigner",
+    "apkanalyzer",
+    "bundletool",
+    "release"
+  ]
+}

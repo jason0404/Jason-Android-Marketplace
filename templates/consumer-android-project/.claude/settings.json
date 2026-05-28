@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "jason-android-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "YOUR_GITHUB_USERNAME/YOUR_REVIEWER_MARKETPLACE_REPO"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "android-review@jason-android-plugins": true,
+    "android-localization-toolkit@jason-android-plugins": true,
+    "android-artifact-inspector@jason-android-plugins": true
+  }
+}
