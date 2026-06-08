@@ -1,4 +1,4 @@
-# Jason Android Engineering Marketplace 中文文档
+# Android Engineering Marketplace 中文文档
 
 > 一个面向 Android 开发、质量检查与交付流程的 Claude Code Marketplace。  
 > 该 Marketplace 聚焦代码 Review、多语言资源管理，以及 APK / AAB 构建产物检查。
